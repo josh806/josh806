@@ -1,9 +1,9 @@
 # Hi 👋, I'm Josh
 
-An enthusiastic Software Developer, focused on full-stack development. 
-I enjoy learning new ways to make code more efficient and clean.
+<p>An enthusiastic Software Developer, focused on full-stack development.</p>
+<p>I enjoy learning new ways to make code more efficient and clean.</p>
 
-:es: Based in Barcelona
+<p>:es: Based in Barcelona</p>
 
 <h2>Social</h2>
 
